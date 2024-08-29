@@ -11,4 +11,10 @@
 
 ### Portafolio de implementación
 
+* Carpeta del módulo de Machine Learning
+    * Week01_Challenge_LuisMaximilianoLopezRamirez.pdf (Sin Framework)
+    * Week01_Challenge_LuisMaximilianoLopezRamirez.ipynb (Sin Framework)
+    * Week01_Challenge_Con_Framework_LuisMaximilianoLopezRamirez.pdf
+    * Week01_Challenge_Con_Framework_LuisMaximilianoLopezRamirez.ipynb
+
 ### Reto
