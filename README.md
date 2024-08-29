@@ -9,7 +9,7 @@
     * Momento de Retroalimentación: Módulo 2 Análisis y Reporte sobre el desempeño del modelo.pdf
     * Momento de Retroalimentación: Módulo 2 Análisis y Reporte sobre el desempeño del modelo.ipynb
 
-### Portafolio de implementación
+## Portafolio de implementación
 
 * Carpeta llamada **Módulo de Machine Learning**
     * Week01_Challenge_LuisMaximilianoLopezRamirez.pdf (Sin Framework)
@@ -17,4 +17,4 @@
     * Week01_Challenge_Con_Framework_LuisMaximilianoLopezRamirez.pdf
     * Week01_Challenge_Con_Framework_LuisMaximilianoLopezRamirez.ipynb
 
-### Reto
+## Reto
